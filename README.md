@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://pavanpatil45.github.io/P4V4N-Page)-->
 ## Hi I'm P4V4N <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<!--<h1 align="center">Hi 👋, I'm P4V4N</h1>-->
+<!--<h1 align="center">Hi 👋, I'm Sumit</h1>-->
 I'm Sumit Dube Student of Computer Engineering at VIIT,Pune, moreover from my studies im currently developing websites, Learning about new technologies and pretty much everything :D also im always enthusiastic about trying new Frameworks and Tools.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpatil45&label=Profile%20views&color=129e00&style=plastic" alt="sumkun" /> </p>
@@ -34,7 +34,7 @@ I'm Sumit Dube Student of Computer Engineering at VIIT,Pune, moreover from my st
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="/tools used/premier.svg" alt="premierpro" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="/tools used/photoshop.svg" alt="photoshop" width="30" height="30"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanpatil45&show_icons=true&locale=en&layout=compact" alt="pavanpatil45" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanpatil45&show_icons=true&locale=en" alt="pavanpatil45" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanpatil45&show_icons=true&locale=en&layout=compact" alt="pavanpatil45" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanpatil45&show_icons=true&locale=en" alt="sumkun" /></p>
 
 
 
