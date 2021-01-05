@@ -3,11 +3,10 @@
 <!--<h1 align="center">Hi 👋, I'm Sumit</h1>-->
 I'm Sumit Dube Student of Computer Engineering at VIIT,Pune, moreover from my studies im currently developing websites, Learning about new technologies and pretty much everything :D also im always enthusiastic about trying new Frameworks and Tools.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpatil45&label=Profile%20views&color=129e00&style=plastic" alt="sumkun" /> </p>
 <img align="right" alt="Coding" width="350" src="./g8.gif">
 <!--https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
 
-- 👨‍💻 Check out my [**Github Page**](https://pavanpatil45.github.io/P4V4N-Page)
+- 👨‍💻 Check out my [**Github Page**](https://sumkun.github.io/sumpage)
 
 <!--- 📫 How to reach me **sumitdube2303@gmail.com**-->
 
