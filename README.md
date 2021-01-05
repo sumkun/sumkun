@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://i1.sndcdn.com/avatars-wQ2we7uDPoXzUVzW-qdr1Yg-t500x500.jpg" alt="" width="350" />](https://soundcloud.com/sumit-dube)
+[<img src="https://i1.sndcdn.com/avatars-wQ2we7uDPoXzUVzW-qdr1Yg-t500x500.jpg" alt="" width="350" height= "350" />](https://soundcloud.com/sumit-dube)
 
 ### Connect with me:
 
