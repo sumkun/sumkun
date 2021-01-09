@@ -14,9 +14,9 @@ I'm Sumit Dube Student of Computer Engineering at VIIT,Pune, moreover from my st
 <p align="left">
   
 <a href="https://instagram.com/ig_summ/" target="blank"><img align="center" src="/connect with me/insta.png" alt="instagram" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/sumitdube/" target="blank"><img align="center" src="/connect with me/linkedin.webp" alt="linkedin" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/sumitdube/" target="blank"><img align="center" src="/connect with me/linkedin.webp" alt="linkedin" height="30" width="30" /></a>&nbsp;
 <a href="https://twitter.com/theorangefoxx/" target="blank"><img align="center" src="/connect with me/twitter.png" alt="twitter" width="30" /></a>&nbsp;
-<a href="https://facebook.com/theorangefoxx/" target="blank"><img align="center" src="/connect with me/facebook.webp" alt="facebook" height="30" width="30" /></a>&nbsp;
+<a href="https://facebook.com/summuchiha/" target="blank"><img align="center" src="/connect with me/facebook.webp" alt="facebook" height="30" width="30" /></a>&nbsp;
 <a href="https://www.reddit.com/user/chidoriswag/" target="blank"><img align="center" src="/connect with me/reddit.svg" alt="reddit" width="30" /></a>&nbsp;
 </p>
 <h3 align="left">Languages and Tools:</h3>
