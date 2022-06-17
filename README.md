@@ -13,10 +13,10 @@ Working currently @Integral Ad Science, loves to explore technologies and learni
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://instagram.com/ig_summ/" target="blank"><img align="center" src="/connect with me/insta.png" alt="instagram" width="30" /></a>&nbsp;
+<a href="https://instagram.com/ig.roronoa/" target="blank"><img align="center" src="/connect with me/insta.png" alt="instagram" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/sumitdube/" target="blank"><img align="center" src="/connect with me/linkedin.webp" alt="linkedin" height="30" width="30" /></a>&nbsp;
 <a href="https://twitter.com/theorangefoxx/" target="blank"><img align="center" src="/connect with me/twitter.png" alt="twitter" width="30" /></a>&nbsp;
-<a href="https://facebook.com/summuchiha/" target="blank"><img align="center" src="/connect with me/facebook.webp" alt="facebook" height="30" width="30" /></a>&nbsp;
+<a href="https://facebook.com/fb.roronoa/" target="blank"><img align="center" src="/connect with me/facebook.webp" alt="facebook" height="30" width="30" /></a>&nbsp;
 <a href="https://www.reddit.com/user/chidoriswag/" target="blank"><img align="center" src="/connect with me/reddit.svg" alt="reddit" width="30" /></a>&nbsp;
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -30,7 +30,6 @@ Working currently @Integral Ad Science, loves to explore technologies and learni
 -->
 <a href="https://www.mysql.com/" target="_blank"> <img src="/tools used/mysql.svg" alt="mysql" width="30" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="/tools used/git.svg" alt="git" width="30" height="30"/> </a> 
-<a href="https://www.debian.org/" target="_blank"> <img src="/tools used/debian.svg" alt="debian" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="/tools used/illustrator.svg" alt="illustrator" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="/tools used/premier.svg" alt="premierpro" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="/tools used/photoshop.svg" alt="photoshop" width="30" height="30"/> </a>
