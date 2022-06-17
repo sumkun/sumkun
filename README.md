@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://sumkun.github.io/sumpage)-->
 ## Hi I'm Sumit <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <!--<h1 align="center">Hi 👋, I'm Sumit</h1>-->
-I'm Sumit Dube Student of Computer Engineering at VIIT,Pune, moreover from my studies im currently developing websites, Learning about new technologies and pretty much everything :D also im always enthusiastic about trying new Frameworks and Tools.
+I'm Sumit Dube, working @Integral Ad Science, loves to explore technologies and learning new things everyday. 
 
 <img align="right" alt="Coding" width="350" src="./g8.gif">
 <!--https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
