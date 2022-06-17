@@ -24,9 +24,11 @@ Working currently @Integral Ad Science, loves to explore technologies and learni
 <a href="https://www.oracle.com/in/java/" target="_blank"> <img src="/tools used/java.svg" alt="java" width="30" height="30"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="/tools used/python.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="/tools used/c.svg" alt="c" width="30" height="30"/> </a> 
+<!-- things which are yet to learn 
 <a href="https://flutter.dev" target="_blank"> <img src="/tools used/flutter.svg" alt="flutter" width="30" height="30"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="/tools used/mysql.svg" alt="mysql" width="30" height="30"/> </a> 
 <a href="https://www.firebase.com/" target="_blank"> <img src="/tools used/firebase.png" alt="mysql" width="30" height="30"/> </a> 
+-->
+<a href="https://www.mysql.com/" target="_blank"> <img src="/tools used/mysql.svg" alt="mysql" width="30" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="/tools used/git.svg" alt="git" width="30" height="30"/> </a> 
 <a href="https://www.debian.org/" target="_blank"> <img src="/tools used/debian.svg" alt="debian" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="/tools used/illustrator.svg" alt="illustrator" width="30" height="30"/> </a>
